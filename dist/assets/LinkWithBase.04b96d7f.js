@@ -1,0 +1,1 @@
+import{c as t,J as a,U as r,L as h,R as s,e as c,aN as f,c3 as o}from"./index.0815bc43.js";const u=e=>t(s,a(e,{get href(){return r(e.encode?h(e.href):e.href)}})),m=e=>t(o,a(e,{get href(){return f(()=>!!e.cancelBase,!0)()?e.href:r(e.href)}})),L=e=>{const{pushHref:n}=c();return t(u,a(e,{get href(){return n(e.href)}}))};export{m as A,u as L,L as a};
